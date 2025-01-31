@@ -54,7 +54,7 @@
     padding: 10px 20px;
 }
 .honda-cbr{
-    height: 500px;
+    height: 300px;
 }
 .first-hero{
     background-color: #06493c;
@@ -78,13 +78,13 @@
     color: red;
 }
 .honda-1{
-height: 300px;
+height: 200px;
 }
 .honda-2{
-    height: 300px;
+    height: 200px;
     }
     .honda-3{
-    height: 300px;
+    height: 200px;
     }
 
 .card{
@@ -97,6 +97,7 @@ height: 300px;
 }
 @media(max-width:768px){
     .card{
-        display: inline-block;
+        display: grid;
+        margin-left: 100px;
     }
 }
