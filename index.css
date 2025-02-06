@@ -4,7 +4,7 @@ body{
 @media(max-width: 780px)
 {
     .body{
-        margin: 50px;
+        margin: 0px;
     }
 }
 .nev-bar{
@@ -85,8 +85,9 @@ body{
 {
     .cbr-text{
         color: white;
-        font-size: 20px;
+        font-size: 10px;
         text-align: center;
+        padding: 30px;
     }
 }
 .btn-purchase{
