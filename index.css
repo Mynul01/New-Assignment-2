@@ -293,6 +293,6 @@ gap: 20px;
     .flex-footer{
         display: block;
         justify-content: center;
-        text-align: center;
+        text-align: left;
     }
 }
