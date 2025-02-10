@@ -5,7 +5,7 @@ body{
 @media(max-width: 700px)
 {
     .body{
-        margin: 0px;
+        margin: 5px;
     }
 }
 .nev-bar{
